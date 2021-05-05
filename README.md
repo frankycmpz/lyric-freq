@@ -28,4 +28,4 @@ There's also two filters. One filters generic words; the other checks for some r
 
 # Lastly...
 
-If there's any questions, feel free to shoot me a question.
+Feel free to use this code or to shoot me a question if there's any.
