@@ -5,8 +5,10 @@ A Python script that creates a tree map of an artist's most used lyrics.
 Looking at an artist's top songs, this script places their 150 most used words onto a tree map. The bigger the block, the larger the frequency. 
 Below are some examples.
 
-1. ![The Strokes](https://user-images.githubusercontent.com/68876183/117093210-e60dee80-ad25-11eb-8f10-93021c8118a1.png)
-2. ![Grimes](https://user-images.githubusercontent.com/68876183/117093242-0178f980-ad26-11eb-8f44-69dc4fc3c1a4.png)
+1. The Strokes
+![The Strokes](https://user-images.githubusercontent.com/68876183/117093210-e60dee80-ad25-11eb-8f10-93021c8118a1.png)
+2. Grimes
+![Grimes](https://user-images.githubusercontent.com/68876183/117093242-0178f980-ad26-11eb-8f44-69dc4fc3c1a4.png)
 
 
 # Some Required Packages
