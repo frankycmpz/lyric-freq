@@ -29,3 +29,7 @@ There's also two filters. One filters generic words; the other checks for some r
 # Lastly...
 
 Feel free to use this code or to shoot me a question if there's any.
+
+
+## Update 10/2021
+Generated image has two different features, block size and color. The block size represents how often a word is used by an artist, while the color is still random. I want the color to represent how common/rare of a word that is in general, so I need to build a database. 
